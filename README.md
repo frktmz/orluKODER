@@ -1,2 +1,2 @@
-# ÇorluKODER
+# orluKODER
 dataset-odor complaints
